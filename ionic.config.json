@@ -1,0 +1,7 @@
+{
+  "name": "student_cities_ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
